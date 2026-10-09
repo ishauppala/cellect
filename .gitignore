@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+outputs/
+data/synthetic/
+data/raw/*
+!data/raw/Cell_Lines_Details.xlsx
