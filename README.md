@@ -1,4 +1,4 @@
-# BioHack: Predicting Cancer Drug Sensitivity from Gene Expression (XGBoost)
+# BioHack: Predicting Cancer Drug Sensitivity from Gene Expression (XGBoost model)
 
 **Question:** can gene expression predict how sensitive a cancer cell line is to an anticancer drug?
 **Target:** `LN_IC50` (log of the drug concentration that inhibits 50% of cell growth; lower = more sensitive).
